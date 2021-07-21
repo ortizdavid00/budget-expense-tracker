@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-budget-tracker/static/css/main.e40d2518.chunk.css",
+    "main.js": "/react-budget-tracker/static/js/main.b68edeef.chunk.js",
+    "main.js.map": "/react-budget-tracker/static/js/main.b68edeef.chunk.js.map",
+    "runtime-main.js": "/react-budget-tracker/static/js/runtime-main.dcc84c68.js",
+    "runtime-main.js.map": "/react-budget-tracker/static/js/runtime-main.dcc84c68.js.map",
+    "static/js/2.3227849f.chunk.js": "/react-budget-tracker/static/js/2.3227849f.chunk.js",
+    "static/js/2.3227849f.chunk.js.map": "/react-budget-tracker/static/js/2.3227849f.chunk.js.map",
+    "index.html": "/react-budget-tracker/index.html",
+    "static/css/main.e40d2518.chunk.css.map": "/react-budget-tracker/static/css/main.e40d2518.chunk.css.map",
+    "static/js/2.3227849f.chunk.js.LICENSE.txt": "/react-budget-tracker/static/js/2.3227849f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcc84c68.js",
+    "static/js/2.3227849f.chunk.js",
+    "static/css/main.e40d2518.chunk.css",
+    "static/js/main.b68edeef.chunk.js"
+  ]
+}
